@@ -243,7 +243,7 @@ export default function Playground({ user }: { user: { name: string; id: string 
           </div>
         </>}
 
-        <footer className="site-footer"><span>SecureGuard · 웹 보안 학습 워게임</span><span>중부대학교 웹보안프로그래밍 · Team 시큐어가드</span></footer>
+        <footer className="site-footer"><span>SecureGuard · 웹 보안 학습 워게임</span><span>중부대학교 웹보안프로그래밍 · Team 넥스트레벨</span></footer>
       </main>
     </div>
   </div>;
